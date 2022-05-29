@@ -3,7 +3,7 @@ Welcome
 This is a movie recommendation website based on User-based collaborating filtering.
 
 
-#### Installation
+Installation
 -Clone this repo on your local machine.
 -Go to the project directory.
 -Create a virtual environment on your device by
@@ -11,7 +11,7 @@ This is a movie recommendation website based on User-based collaborating filteri
 -Activate the virtual environment by typing
 	<environment name>\Scripts\activate
 -Run
-	python install -r req.txt
+	python install -r requirements.txt
 -Run server Locally
 	python manage.py runserver
 -Go to localhost:8000
